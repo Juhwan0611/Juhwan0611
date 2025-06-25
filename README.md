@@ -5,7 +5,7 @@
 ## Skill 🧩
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=PYTHON&logoColor=white)
 ![JAVA](https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=JAVA&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
+![C++](https://img.shields.io/badge/C-00599C.svg?&style=for-the-badge&logo=cplusplus&logoColor=white)
 
 
 ### Tools
