@@ -14,3 +14,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
 ![Visual Studio 
 2022](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juhwan0611)](https://github.com/anuraghazra/github-readme-stats)
