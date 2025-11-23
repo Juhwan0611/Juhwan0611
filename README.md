@@ -1,4 +1,4 @@
-# Ju-hwan 🙃
+# Ju-hwan 🥲
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juhwan016)](https://solved.ac/profile/juhwan016)
 
