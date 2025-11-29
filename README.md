@@ -1,6 +1,7 @@
 # Ju-hwan 🥲
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juhwan016)](https://solved.ac/profile/juhwan016)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=juhwan017)](https://solved.ac/profile/juhwan017)
 
 ## Skill 🧩
 ![PYTHON](https://img.shields.io/badge/PYTHON-3776AB.svg?&style=for-the-badge&logo=PYTHON&logoColor=white)
